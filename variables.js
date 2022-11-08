@@ -1,9 +1,13 @@
-var favoritePlace = "New Zealand"
-var favoriteDrink = "Beer"
-var favoritePerson = "Joy"
-var age = 34
-var favoriteNumber = 7
-var year = 2022
-var tired = true
-var excited = true
-var sad = false
+var favoritePlace = "Scotland"
+var favoriteDrink = "Orange Juice"
+var favoritePerson = "Wife"
+var age = 40
+var favoriteNumber = 4
+var year = 2021
+var tired = false
+var excited = false
+var sad = true
+
+console.log(age)
+console.log(sad)
+console.log(favoritePlace)
