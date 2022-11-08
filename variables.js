@@ -4,3 +4,6 @@ var favoritePerson = "Joy"
 var age = 34
 var favoriteNumber = 7
 var year = 2022
+var tired = true
+var excited = true
+var sad = false
