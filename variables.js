@@ -8,6 +8,13 @@ var tired = false
 var excited = false
 var sad = true
 
+age = 32
+favoriteDrink = "Champagne"
+sad = false
+
+
+
+
 console.log(age)
+console.log(favoriteDrink)
 console.log(sad)
-console.log(favoritePlace)
